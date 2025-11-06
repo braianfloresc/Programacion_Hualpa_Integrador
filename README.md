@@ -64,13 +64,9 @@ Este diseño permite **filtrar y recorrer los productos de forma recursiva**, re
    cd tienda-electronicos
 Ejecutar el programa
 
-bash
-Copiar código
 python tienda.py
 Usar el menú interactivo:
 
-markdown
-Copiar código
 1. Agregar producto
 2. Mostrar productos
 3. Modificar producto
