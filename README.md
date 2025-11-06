@@ -8,6 +8,7 @@ El sistema está basado en una **estructura jerárquica de carpetas y archivos C
 
 ---
 
+
 ## Estructura de Datos y Persistencia Jerárquica
 
 El sistema organiza la información de manera jerárquica en el sistema de archivos, siguiendo este esquema:
