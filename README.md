@@ -10,26 +10,32 @@ El sistema está basado en una **estructura jerárquica de carpetas y archivos C
 
 
 ## Estructura de Datos y Persistencia Jerárquica
-
+estructura
 Programacion_Hualpa_Integrador/
-│
-├── crud/
-│   ├── agregar.py                # Funcion para agregar productos
-│   ├── mostrar.py                # Funcion para mostrar productos
-│   ├── modificar.py              # Funcion para modificar productos existentes
-│   ├── eliminar.py               # Funcion para eliminar productos
-│   └── estadisticas_ordenar.py # Funciones de estadisticas y ordenamiento
-│
-├── utilidades/
-│   ├── archivos.py               # Manejo de directorios y archivos CSV
-│   └── recorridos.py             # Recorridos recursivos de carpetas de datos
-│
-├── menus/
-│   └── menu_principal.py         # Menú principal del sistema
-│
-├── datos/                        # Carpeta donde se guardan los CSV generados
-│
-└── main.py                       # Archivo principal de ejecución
+
+
+crud/
+    agregar.py                # Funcion para agregar productos
+
+    mostrar.py                # Funcion para mostrar productos
+
+    modificar.py              # Funcion para modificar productos existentes
+
+    eliminar.py               # Funcion para eliminar productos
+
+    estadisticas_ordenar.py # Funciones de estadisticas y ordenamiento
+
+utilidades/
+    archivos.py               # Manejo de directorios y archivos CSV
+
+    recorridos.py             # Recorridos recursivos de carpetas de datos
+
+menus/
+    menu_principal.py         # Menú principal del sistema
+
+datos/                        # Carpeta donde se guardan los CSV generados
+
+main.py                       # Archivo principal de ejecución
 
 Por ejemplo, al registrar un producto:
 Categoría: Televisores
