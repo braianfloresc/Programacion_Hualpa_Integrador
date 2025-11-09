@@ -10,11 +10,11 @@ El sistema está basado en una **estructura jerárquica de carpetas y archivos C
 
 
 ## Estructura de Datos y Persistencia Jerárquica
-estructura
+
 Programacion_Hualpa_Integrador/
 
-
 crud/
+
     agregar.py                # Funcion para agregar productos
 
     mostrar.py                # Funcion para mostrar productos
@@ -23,14 +23,16 @@ crud/
 
     eliminar.py               # Funcion para eliminar productos
 
-    estadisticas_ordenar.py # Funciones de estadisticas y ordenamiento
+    estadisticas_ordenar.py   # Funciones de estadisticas y ordenamiento
 
 utilidades/
+
     archivos.py               # Manejo de directorios y archivos CSV
 
     recorridos.py             # Recorridos recursivos de carpetas de datos
 
 menus/
+
     menu_principal.py         # Menú principal del sistema
 
 datos/                        # Carpeta donde se guardan los CSV generados
